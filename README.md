@@ -1,2 +1,3 @@
 # React-Counter-Application
-Created with CodeSandbox
+
+This is a simple Counter Application created with React using React Hooks.
