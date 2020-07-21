@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+
+.App {
+  font-family: "Acme", sans-serif;
+  text-align: center;
+  transform: translateY(50%);
+}
+
+h1 {
+  letter-spacing: 1px;
+  margin: 10px;
+}
+
+.text-conf {
+  letter-spacing: 2px;
+}
